@@ -2,6 +2,8 @@
 Fall 2014 Project
 Created by Andrew Goddu
 
+This project uses the wheelsunh.jar library
+
 Controls:
 Up Arrow: Rotate shape
 Down arrow: drop shape one block
