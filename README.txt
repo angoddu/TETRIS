@@ -1,5 +1,6 @@
 # TETRIS
 Fall 2014 Project
+Created by Andrew Goddu
 
 Controls:
 Up Arrow: Rotate shape
@@ -13,3 +14,9 @@ One row: 40 points
 Two rows: 100 points
 Three rows: 300 points
 Four rows: 1200 points
+
+Leveling and speed
+Level increaces every 10 rows cleared
+Shapes fall at 1 block per second (1000 mil).
+Every level the speed increaces by 20%
+Top speed is 10 blocks per second (100 mil)
