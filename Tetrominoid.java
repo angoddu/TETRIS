@@ -1,4 +1,3 @@
-package Tetris2D;
 import wheelsunh.users.*;
 import java.awt.Color;
 import java.util.*;

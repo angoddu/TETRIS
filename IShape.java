@@ -1,5 +1,3 @@
-package Tetris2D;
-
 import wheelsunh.users.Frame;
 import wheelsunh.users.*;
 

@@ -1,4 +1,3 @@
-package Tetris2D;
 import java.awt.Color;
 
 /**
